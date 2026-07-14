@@ -5,3 +5,4 @@ Fill-in-the-blanks Quiz:
 4. When working with Git, developers often push changes from their local repository to the master repository to share their work with others and synchronize the codebase.
 5. The main branch in Git typically represents the stable and production-ready version of the codebase, serving as the primary reference point for development and releases.
 6. A merge conflict occurs in Git when there are conflicting changes between different branches or commits, requiring manual intervention to resolve the discrepancies and complete the merge process.
+Line added by Kanitha for testing
